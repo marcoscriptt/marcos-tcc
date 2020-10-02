@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Vintasoft.Imaging.Annotation</id>
+    <version>8.5.14.1</version>
+    <title>Vintasoft.Imaging.Annotation</title>
+    <authors>VintaSoft Ltd.</authors>
+    <owners>VintaSoft Ltd.</owners>
+    <licenseUrl>http://www.vintasoft.com/vsimaging-dotnet-license.html?referer=nuget.org/Vintasoft.Imaging.Annotation</licenseUrl>
+    <projectUrl>http://www.vintasoft.com/vsannotation-dotnet-index.html?referer=nuget.org/Vintasoft.Imaging.Annotation</projectUrl>
+    <iconUrl>http://www.vintasoft.com/images/vsannotation-icon.gif?referer=nuget.org/Vintasoft.Imaging.Annotation</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Annotate TIFF, PNG, and JPEG images in .NET. Annotate and markup single- or multipage TIFF image, JPEG or PNG image without re-encoding the image. WinForms controls for annotating images. Print image with annotations. Rotate image with annotations. Burn annotations on image. Add or insert an annotation into annotation collection. Reorder annotations in annotation collection. Change annotation. Remove an annotation from annotation collection. Undo/redo changes in annotation collection or single annotation. Supported annotation types: Line, Polyline, Freehand, Ruler, Rulers, Angle, Rectangle, Square, Highlight, Ellipse, Circle, Polygon, Freehand polygon, Embedded image, Referenced image, Text, Free text, Link, Rubber stamp, Composite, Group, Sticky note, Leader line, Arrow.</description>
+    <summary>Annotate TIFF, PNG, and JPEG images in .NET. Annotate and markup single- or multipage TIFF image, JPEG or PNG image without re-encoding the image. WinForms controls for annotating images. Print image with annotations. Rotate image with annotations. Burn annotations on image. Add or insert an annotation into annotation collection. Reorder annotations in annotation collection. Change annotation. Remove an annotation from annotation collection. Undo/redo changes in annotation collection or single annotation. Supported annotation types: Line, Polyline, Freehand, Ruler, Rulers, Angle, Rectangle, Square, Highlight, Ellipse, Circle, Polygon, Freehand polygon, Embedded image, Referenced image, Text, Free text, Link, Rubber stamp, Composite, Group, Sticky note, Leader line, Arrow.</summary>
+    <releaseNotes />
+    <copyright>Copyright 2017 VintaSoft, Ltd. All rights reserved.</copyright>
+    <tags>Vintasoft Imaging .net sdk library annotate image jpeg tiff png dicom PDF document WinForms viewer print xmp binary wang json line rectangle polyline ruler freehand highlight ellipse polygon text rubber stamp link sticky note arrow vb.net c#</tags>
+    <dependencies>
+      <dependency id="Vintasoft.Imaging" version="[8.5.14.1]" />
+    </dependencies>
+  </metadata>
+</package>

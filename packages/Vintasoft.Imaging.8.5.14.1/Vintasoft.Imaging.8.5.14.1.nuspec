@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Vintasoft.Imaging</id>
+    <version>8.5.14.1</version>
+    <authors>VintaSoft Ltd.</authors>
+    <owners>VintaSoft Ltd.</owners>
+    <licenseUrl>http://www.vintasoft.com/vsimaging-dotnet-license.html?referer=nuget.org/Vintasoft.Imaging</licenseUrl>
+    <projectUrl>http://www.vintasoft.com/vsimaging-dotnet-index.html?referer=nuget.org/Vintasoft.Imaging</projectUrl>
+    <iconUrl>http://www.vintasoft.com/images/vsimaging-icon.gif?referer=nuget.org/Vintasoft.Imaging</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Create, load, capture, view, process, convert, print and save images in .NET. WinForms controls for previewing and printing images. Render image region synchronously or asynchronously. Process the whole image or image region, undo/redo results of image processing. Create custom image processing command - architecture is open. Read and write image metadata (EXIF, TIFF, WANG, Adobe Photoshop). Use the color management when displaying and printing images, perform the color transformation of images. Low level functions for manipulating TIFF, GIF, ICO, CUR, JPEG and PNG files.</description>
+    <summary>Create, load, capture, view, process, convert, print and save images in .NET. WinForms controls for previewing and printing images. Render image region synchronously or asynchronously. Process the whole image or image region, undo/redo results of image processing. Create custom image processing command - architecture is open. Read and write image metadata (EXIF, TIFF, WANG, Adobe Photoshop). Use the color management when displaying and printing images, perform the color transformation of images. Low level functions for manipulating TIFF, GIF, ICO, CUR, JPEG and PNG files.</summary>
+    <copyright>Copyright 2017 VintaSoft, Ltd. All rights reserved.</copyright>
+    <tags>Vintasoft Imaging .net sdk library document image processing viewer thumbnail jpeg pdf tiff winforms file metadata print save load vb.net c#</tags>
+  </metadata>
+</package>

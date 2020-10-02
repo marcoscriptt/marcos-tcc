@@ -1,0 +1,642 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CE06CDCE-098B-48C1-882B-6A3809A4185A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Sistema_Prova</RootNamespace>
+    <AssemblyName>Sistema_Prova</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>C:\Users\Marcos Paulo\Downloads\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>C:\Users\Administrador\Desktop\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="CircularProgressBar">
+      <HintPath>..\packages\CircularProgressBar.2.5.6403.13419\lib\net35-client\CircularProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="CustomMarshalers" />
+    <Reference Include="ISymWrapper" />
+    <Reference Include="Microsoft.Activities.Build" />
+    <Reference Include="Microsoft.Build" />
+    <Reference Include="Microsoft.Build.Engine" />
+    <Reference Include="Microsoft.Build.Framework" />
+    <Reference Include="Microsoft.Build.Tasks.v4.0" />
+    <Reference Include="Microsoft.Build.Utilities.v4.0" />
+    <Reference Include="Microsoft.JScript" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.Compatibility" />
+    <Reference Include="Microsoft.VisualBasic.Compatibility.Data" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualC" />
+    <Reference Include="Microsoft.VisualC.STLCLR" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity.Design" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.IdentityModel" />
+    <Reference Include="System.IdentityModel.Selectors" />
+    <Reference Include="System.identitymodel.services" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.IO.Log" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Management.Instrumentation" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Web.DataVisualization" />
+    <Reference Include="System.Web.DataVisualization.Design" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.DynamicData.Design" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.Entity.Design" />
+    <Reference Include="System.Web.Extensions.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Vintasoft.Imaging">
+      <HintPath>..\packages\Vintasoft.Imaging.8.5.14.1\lib\net40\Vintasoft.Imaging.dll</HintPath>
+    </Reference>
+    <Reference Include="Vintasoft.Imaging.Annotation">
+      <HintPath>..\packages\Vintasoft.Imaging.Annotation.8.5.14.1\lib\net40\Vintasoft.Imaging.Annotation.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="WinFormAnimation">
+      <HintPath>..\packages\WinFormAnimation.1.5.6298.3372\lib\net35-client\WinFormAnimation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTeste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTeste.Designer.cs">
+      <DependentUpon>frmTeste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelos\Administrador\frmAlterarAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modelos\Administrador\frmAlterarAdm.Designer.cs">
+      <DependentUpon>frmAlterarAdm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelos\Administrador\frmCadastrarAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modelos\Administrador\frmCadastrarAdm.Designer.cs">
+      <DependentUpon>frmCadastrarAdm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelos\Administrador\frmConsultarAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modelos\Administrador\frmConsultarAdm.Designer.cs">
+      <DependentUpon>frmConsultarAdm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelos\Aluno\frmAlterarAlu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modelos\Aluno\frmAlterarAlu.Designer.cs">
+      <DependentUpon>frmAlterarAlu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelos\Aluno\frmCadastrarAlu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modelos\Aluno\frmCadastrarAlu.Designer.cs">
+      <DependentUpon>frmCadastrarAlu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelos\Aluno\frmConsultarAlu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modelos\Aluno\frmConsultarAlu.Designer.cs">
+      <DependentUpon>frmConsultarAlu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelos\Aluno\frmConsultarNotas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modelos\Aluno\frmConsultarNotas.Designer.cs">
+      <DependentUpon>frmConsultarNotas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelos\Materia\frmAlterarMat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modelos\Materia\frmAlterarMat.Designer.cs">
+      <DependentUpon>frmAlterarMat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelos\Materia\frmCadastrarMat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modelos\Materia\frmCadastrarMat.Designer.cs">
+      <DependentUpon>frmCadastrarMat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelos\Materia\frmConsultarMat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modelos\Materia\frmConsultarMat.Designer.cs">
+      <DependentUpon>frmConsultarMat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelos\Aluno\frmNotasAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modelos\Aluno\frmNotasAluno.Designer.cs">
+      <DependentUpon>frmNotasAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelos\Professor\frmAlterarProf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modelos\Professor\frmAlterarProf.Designer.cs">
+      <DependentUpon>frmAlterarProf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelos\Professor\frmCadastrarProf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modelos\Professor\frmCadastrarProf.Designer.cs">
+      <DependentUpon>frmCadastrarProf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelos\Professor\frmConsultarProf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modelos\Professor\frmConsultarProf.Designer.cs">
+      <DependentUpon>frmConsultarProf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelos\Professor\frmMateriasProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modelos\Professor\frmMateriasProfessor.Designer.cs">
+      <DependentUpon>frmMateriasProfessor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelos\Turma\frmAlterarTurma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modelos\Turma\frmAlterarTurma.Designer.cs">
+      <DependentUpon>frmAlterarTurma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelos\Turma\frmCadastrarTurma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modelos\Turma\frmCadastrarTurma.Designer.cs">
+      <DependentUpon>frmCadastrarTurma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelos\Turma\frmConsultarTurma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modelos\Turma\frmConsultarTurma.Designer.cs">
+      <DependentUpon>frmConsultarTurma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rotina\Alunos\Prova\frmConsultarProva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rotina\Alunos\Prova\frmConsultarProva.Designer.cs">
+      <DependentUpon>frmConsultarProva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rotina\Alunos\Prova\frmMostrarNota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rotina\Alunos\Prova\frmMostrarNota.Designer.cs">
+      <DependentUpon>frmMostrarNota.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rotina\Alunos\Prova\frmProva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rotina\Alunos\Prova\frmProva.Designer.cs">
+      <DependentUpon>frmProva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rotina\Professor\Provas\frmAlterarProva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rotina\Professor\Provas\frmAlterarProva.Designer.cs">
+      <DependentUpon>frmAlterarProva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rotina\Professor\Provas\frmCadastrarProva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rotina\Professor\Provas\frmCadastrarProva.Designer.cs">
+      <DependentUpon>frmCadastrarProva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rotina\Professor\Provas\frmConsultarProva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rotina\Professor\Provas\frmConsultarProva.Designer.cs">
+      <DependentUpon>frmConsultarProva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rotina\Professor\Questao\frmDisponibiliza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rotina\Professor\Questao\frmDisponibiliza.Designer.cs">
+      <DependentUpon>frmDisponibiliza.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rotina\Professor\Questao\frmCadastrarQuestao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rotina\Professor\Questao\frmCadastrarQuestao.Designer.cs">
+      <DependentUpon>frmCadastrarQuestao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rotina\Professor\Questao\frmConsultarQuestao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rotina\Professor\Questao\frmConsultarQuestao.Designer.cs">
+      <DependentUpon>frmConsultarQuestao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sistema\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sistema\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sistema\frmSistemaAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sistema\frmSistemaAdm.Designer.cs">
+      <DependentUpon>frmSistemaAdm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sistema\frmSistemaAlu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sistema\frmSistemaAlu.Designer.cs">
+      <DependentUpon>frmSistemaAlu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sistema\frmSistemaProf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sistema\frmSistemaProf.Designer.cs">
+      <DependentUpon>frmSistemaProf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sistema\frmTrocarSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sistema\frmTrocarSenha.Designer.cs">
+      <DependentUpon>frmTrocarSenha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserControl\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\UserControl1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserControl\UserControl1.Designer.cs">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTeste.resx">
+      <DependentUpon>frmTeste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modelos\Administrador\frmAlterarAdm.resx">
+      <DependentUpon>frmAlterarAdm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modelos\Administrador\frmCadastrarAdm.resx">
+      <DependentUpon>frmCadastrarAdm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modelos\Administrador\frmConsultarAdm.resx">
+      <DependentUpon>frmConsultarAdm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modelos\Aluno\frmAlterarAlu.resx">
+      <DependentUpon>frmAlterarAlu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modelos\Aluno\frmCadastrarAlu.resx">
+      <DependentUpon>frmCadastrarAlu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modelos\Aluno\frmConsultarAlu.resx">
+      <DependentUpon>frmConsultarAlu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modelos\Aluno\frmConsultarNotas.resx">
+      <DependentUpon>frmConsultarNotas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modelos\Materia\frmAlterarMat.resx">
+      <DependentUpon>frmAlterarMat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modelos\Materia\frmCadastrarMat.resx">
+      <DependentUpon>frmCadastrarMat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modelos\Materia\frmConsultarMat.resx">
+      <DependentUpon>frmConsultarMat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modelos\Aluno\frmNotasAluno.resx">
+      <DependentUpon>frmNotasAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modelos\Professor\frmAlterarProf.resx">
+      <DependentUpon>frmAlterarProf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modelos\Professor\frmCadastrarProf.resx">
+      <DependentUpon>frmCadastrarProf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modelos\Professor\frmConsultarProf.resx">
+      <DependentUpon>frmConsultarProf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modelos\Professor\frmMateriasProfessor.resx">
+      <DependentUpon>frmMateriasProfessor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modelos\Turma\frmAlterarTurma.resx">
+      <DependentUpon>frmAlterarTurma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modelos\Turma\frmCadastrarTurma.resx">
+      <DependentUpon>frmCadastrarTurma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modelos\Turma\frmConsultarTurma.resx">
+      <DependentUpon>frmConsultarTurma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Rotina\Alunos\Prova\frmConsultarProva.resx">
+      <DependentUpon>frmConsultarProva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rotina\Alunos\Prova\frmMostrarNota.resx">
+      <DependentUpon>frmMostrarNota.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rotina\Alunos\Prova\frmProva.resx">
+      <DependentUpon>frmProva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rotina\Professor\Provas\frmAlterarProva.resx">
+      <DependentUpon>frmAlterarProva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rotina\Professor\Provas\frmCadastrarProva.resx">
+      <DependentUpon>frmCadastrarProva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rotina\Professor\Provas\frmConsultarProva.resx">
+      <DependentUpon>frmConsultarProva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rotina\Professor\Questao\frmDisponibiliza.resx">
+      <DependentUpon>frmDisponibiliza.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rotina\Professor\Questao\frmCadastrarQuestao.resx">
+      <DependentUpon>frmCadastrarQuestao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rotina\Professor\Questao\frmConsultarQuestao.resx">
+      <DependentUpon>frmConsultarQuestao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sistema\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sistema\frmSistemaAdm.resx">
+      <DependentUpon>frmSistemaAdm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sistema\frmSistemaAlu.resx">
+      <DependentUpon>frmSistemaAlu.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sistema\frmSistemaProf.resx">
+      <DependentUpon>frmSistemaProf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sistema\frmTrocarSenha.resx">
+      <DependentUpon>frmTrocarSenha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\UserControl1.resx">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BDC\BDC.csproj">
+      <Project>{26b1d070-441d-4bad-afba-b564fa5e45d5}</Project>
+      <Name>BDC</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Graduate-male-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Laptop-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magnifying-glass-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pencil-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sign-check-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Teacher-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Teacher-male-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Test-paper-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tests-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Zoom-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Students-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\configure-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pinion-settings-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User-Interface-Password-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\--19-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Log-Out-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Log-Out-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Log-Out-icon %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-window-close-icon-medio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-window-close-icon-pequeno.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-1-icon-Medio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-1-icon-Pequeno.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save-icon-medio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save-icon-pequeno.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sign-check-icon-medio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sign-check-icon-pequeno.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_basket_1814090 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Trash-empty-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Start-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-ponto-de-interrogação-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-salvar-xcxx64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-pesquisar-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-manutenção-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-informações-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-excluir-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-cancelar-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-abrir-painel-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ci_bv_sistemas_de_avaliacao1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ci_bv_sistemas_de_avaliacao11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ci_bv_sistemas_de_avaliacao12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ci_bv_sistemas_de_avaliacao122222.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ci_bv_sistemas_de_avaliacao1777.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

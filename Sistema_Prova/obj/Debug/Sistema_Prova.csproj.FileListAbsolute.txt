@@ -1,0 +1,610 @@
+C:\Users\Marcos\Desktop\Projetos\Sistema_Prova\Sistema_Prova\bin\Debug\Sistema_Prova.exe.config
+C:\Users\Marcos\Desktop\Projetos\Sistema_Prova\Sistema_Prova\bin\Debug\Sistema_Prova.exe
+C:\Users\Marcos\Desktop\Projetos\Sistema_Prova\Sistema_Prova\bin\Debug\Sistema_Prova.pdb
+C:\Users\Marcos\Desktop\Projetos\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Properties.Resources.resources
+C:\Users\Marcos\Desktop\Projetos\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\Projetos\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.exe
+C:\Users\Marcos\Desktop\Projetos\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.pdb
+C:\Users\Marcos\Desktop\Projetos\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\Projetos\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmCadastroAdm.resources
+C:\Users\Marcos\Desktop\Projetos\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmAlterarAdm.resources
+C:\Users\Marcos\Desktop\Projetos\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmCadastrarAdm.resources
+C:\Users\Marcos\Desktop\Projetos\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmConsultarAdm.resources
+C:\Users\Marcos\Desktop\Projetos\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmAlterarAlu.resources
+C:\Users\Marcos\Desktop\Projetos\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmCadastrarAlu.resources
+C:\Users\Marcos\Desktop\Projetos\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmConsultarAlu.resources
+C:\Users\Marcos\Desktop\Projetos\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmAlterarMat.resources
+C:\Users\Marcos\Desktop\Projetos\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmCadastrarMat.resources
+C:\Users\Marcos\Desktop\Projetos\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmConsultarMat.resources
+C:\Users\Marcos\Desktop\Projetos\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmAlterarProf.resources
+C:\Users\Marcos\Desktop\Projetos\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmCadastrarProf.resources
+C:\Users\Marcos\Desktop\Projetos\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmConsultarProf.resources
+C:\Users\Marcos\Desktop\Projetos\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmAlterarTurma.resources
+C:\Users\Marcos\Desktop\Projetos\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmCadastrarTurma.resources
+C:\Users\Marcos\Desktop\Projetos\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmConsultarTurma.resources
+C:\Users\Marcos\Desktop\Projetos\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmLogin.resources
+C:\Users\Marcos\Desktop\Projetos\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaAdm.resources
+D:\Sistema_Prova\Sistema_Prova\bin\Debug\Sistema_Prova.exe.config
+D:\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.exe
+Z:\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.csprojResolveAssemblyReference.cache
+Z:\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmAlterarAdm.resources
+Z:\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmCadastrarAdm.resources
+Z:\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmConsultarAdm.resources
+Z:\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmAlterarAlu.resources
+Z:\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmCadastrarAlu.resources
+Z:\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmConsultarAlu.resources
+Z:\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmAlterarMat.resources
+Z:\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmCadastrarMat.resources
+Z:\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmConsultarMat.resources
+Z:\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmAlterarProf.resources
+Z:\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmCadastrarProf.resources
+Z:\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmConsultarProf.resources
+Z:\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmAlterarTurma.resources
+Z:\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmCadastrarTurma.resources
+Z:\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmConsultarTurma.resources
+Z:\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Properties.Resources.resources
+Z:\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmLogin.resources
+Z:\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaAdm.resources
+Z:\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.csproj.GenerateResource.Cache
+Z:\Sistema_Prova\Sistema_Prova\bin\Debug\Sistema_Prova.exe.config
+Z:\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.Form1.resources
+Z:\Sistema_Prova\Sistema_Prova\bin\Debug\Sistema_Prova.exe
+Z:\Sistema_Prova\Sistema_Prova\bin\Debug\Sistema_Prova.pdb
+Z:\Sistema_Prova\Sistema_Prova\bin\Debug\BDC.dll
+Z:\Sistema_Prova\Sistema_Prova\bin\Debug\BDC.pdb
+Z:\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.exe
+Z:\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.pdb
+Z:\Sistema_Prova\Sistema_Prova\bin\Debug\Oracle.DataAccess (2).dll
+K:\Sistema_Prova\Sistema_Prova\bin\Debug\Sistema_Prova.exe.config
+K:\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.exe
+K:\Sistema_Prova\Sistema_Prova\obj\Debug\Sistema_Prova.pdb
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\bin\Debug\Sistema_Prova.exe.config
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.exe
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.pdb
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\bin\Debug\Sistema_Prova.exe
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\bin\Debug\Sistema_Prova.pdb
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\bin\Debug\BDC.dll
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\bin\Debug\Oracle.DataAccess (2).dll
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\bin\Debug\BDC.pdb
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.csprojResolveAssemblyReference.cache
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.Form1.resources
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmAlterarAdm.resources
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmCadastrarAdm.resources
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmConsultarAdm.resources
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmAlterarAlu.resources
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmCadastrarAlu.resources
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmConsultarAlu.resources
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmAlterarMat.resources
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmCadastrarMat.resources
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmConsultarMat.resources
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmAlterarProf.resources
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmCadastrarProf.resources
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmConsultarProf.resources
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmAlterarTurma.resources
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmCadastrarTurma.resources
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmConsultarTurma.resources
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.Properties.Resources.resources
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Alunos.Prova.frmConsultarProva.resources
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Alunos.Prova.frmProva.resources
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmAlterarProva.resources
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmCadastrarProva.resources
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmConsultarProva.resources
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Questao.frmAlterarQuestao.resources
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Questao.frmCadastrarQuestao.resources
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Questao.frmConsultarQuestao.resources
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmLogin.resources
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaAdm.resources
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaAlu.resources
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaProf.resources
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.csproj.GenerateResource.Cache
+E:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\bin\Debug\Sistema_Prova.exe.config
+E:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.exe
+E:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\Sistema_Prova\obj\Debug\Sistema_Prova.pdb
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\bin\Debug\Sistema_Prova.exe.config
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\bin\Debug\Sistema_Prova.exe
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\bin\Debug\Sistema_Prova.pdb
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\bin\Debug\BDC.dll
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\bin\Debug\Oracle.DataAccess (2).dll
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\bin\Debug\BDC.pdb
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.csprojResolveAssemblyReference.cache
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Form1.resources
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmAlterarAdm.resources
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmCadastrarAdm.resources
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmConsultarAdm.resources
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmAlterarAlu.resources
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmCadastrarAlu.resources
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmConsultarAlu.resources
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmAlterarMat.resources
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmCadastrarMat.resources
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmConsultarMat.resources
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmAlterarProf.resources
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmCadastrarProf.resources
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmConsultarProf.resources
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmAlterarTurma.resources
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmCadastrarTurma.resources
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmConsultarTurma.resources
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Properties.Resources.resources
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Alunos.Prova.frmConsultarProva.resources
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Alunos.Prova.frmProva.resources
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmAlterarProva.resources
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmCadastrarProva.resources
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmConsultarProva.resources
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Questao.frmAlterarQuestao.resources
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Questao.frmCadastrarQuestao.resources
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Questao.frmConsultarQuestao.resources
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmLogin.resources
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaAdm.resources
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaAlu.resources
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaProf.resources
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.csproj.GenerateResource.Cache
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.exe
+E:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.pdb
+G:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\bin\Debug\Sistema_Prova.exe.config
+G:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.exe
+G:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.pdb
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.csprojResolveAssemblyReference.cache
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Form1.resources
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmAlterarAdm.resources
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmCadastrarAdm.resources
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmConsultarAdm.resources
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmAlterarAlu.resources
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmCadastrarAlu.resources
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmConsultarAlu.resources
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmAlterarMat.resources
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmCadastrarMat.resources
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmConsultarMat.resources
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmAlterarProf.resources
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmCadastrarProf.resources
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmConsultarProf.resources
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmAlterarTurma.resources
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmCadastrarTurma.resources
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmConsultarTurma.resources
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Properties.Resources.resources
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Alunos.Prova.frmConsultarProva.resources
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Alunos.Prova.frmProva.resources
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmAlterarProva.resources
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmCadastrarProva.resources
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmConsultarProva.resources
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Questao.frmAlterarQuestao.resources
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Questao.frmCadastrarQuestao.resources
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Questao.frmConsultarQuestao.resources
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmLogin.resources
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaAdm.resources
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaAlu.resources
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaProf.resources
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\obj\Debug\Sistema_Prova.csproj.GenerateResource.Cache
+Z:\UseEsteAqui\Sistema_Prova 11-10\Sistema_Prova\bin\Debug\Sistema_Prova.exe.config
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\bin\Debug\Sistema_Prova.exe.config
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.exe
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.pdb
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\bin\Debug\Sistema_Prova.exe
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\bin\Debug\Sistema_Prova.pdb
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\bin\Debug\BDC.dll
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\bin\Debug\CircularProgressBar.dll
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\bin\Debug\Oracle.DataAccess.dll
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\bin\Debug\Vintasoft.Imaging.Annotation.dll
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\bin\Debug\Vintasoft.Imaging.dll
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\bin\Debug\WinFormAnimation.dll
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\bin\Debug\BDC.pdb
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\bin\Debug\CircularProgressBar.xml
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\bin\Debug\Vintasoft.Imaging.xml
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\bin\Debug\Vintasoft.Imaging.Annotation.xml
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\bin\Debug\WinFormAnimation.xml
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.csprojResolveAssemblyReference.cache
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Form1.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmAlterarAdm.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmCadastrarAdm.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmConsultarAdm.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmAlterarAlu.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmCadastrarAlu.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmConsultarAlu.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmConsultarNotas.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmAlterarMat.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmCadastrarMat.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmConsultarMat.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.Materia.frmNotasAluno.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmAlterarProf.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmCadastrarProf.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmConsultarProf.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmAlterarTurma.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmCadastrarTurma.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmConsultarTurma.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Properties.Resources.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Alunos.Prova.frmConsultarProva.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Alunos.Prova.frmMostrarNota.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Alunos.Prova.frmProva.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmAlterarProva.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmCadastrarProva.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmConsultarProva.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Questao.frmAlterarQuestao.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Questao.frmCadastrarQuestao.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Questao.frmConsultarQuestao.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmLogin.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaAdm.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaAlu.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaProf.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmTrocarSenha.resources
+F:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.csproj.GenerateResource.Cache
+D:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\bin\Debug\Sistema_Prova.exe.config
+D:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.exe
+D:\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.pdb
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\bin\Debug\Sistema_Prova.exe.config
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\bin\Debug\Sistema_Prova.exe
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\bin\Debug\Sistema_Prova.pdb
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\bin\Debug\BDC.dll
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\bin\Debug\CircularProgressBar.dll
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\bin\Debug\Oracle.DataAccess (2).dll
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\bin\Debug\Vintasoft.Imaging.Annotation.dll
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\bin\Debug\Vintasoft.Imaging.dll
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\bin\Debug\WinFormAnimation.dll
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\bin\Debug\BDC.pdb
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\bin\Debug\CircularProgressBar.xml
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\bin\Debug\Vintasoft.Imaging.xml
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\bin\Debug\Vintasoft.Imaging.Annotation.xml
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\bin\Debug\WinFormAnimation.xml
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.csprojResolveAssemblyReference.cache
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Form1.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmAlterarAdm.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmCadastrarAdm.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmConsultarAdm.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmAlterarAlu.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmCadastrarAlu.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmConsultarAlu.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmConsultarNotas.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmAlterarMat.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmCadastrarMat.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmConsultarMat.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.Materia.frmNotasAluno.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmAlterarProf.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmCadastrarProf.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmConsultarProf.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmAlterarTurma.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmCadastrarTurma.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmConsultarTurma.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Properties.Resources.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Alunos.Prova.frmConsultarProva.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Alunos.Prova.frmMostrarNota.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Alunos.Prova.frmProva.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmAlterarProva.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmCadastrarProva.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmConsultarProva.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Questao.frmAlterarQuestao.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Questao.frmCadastrarQuestao.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Questao.frmConsultarQuestao.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmLogin.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaAdm.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaAlu.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaProf.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmTrocarSenha.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.csproj.GenerateResource.Cache
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.exe
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.pdb
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmDisponibiliza.resources
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmDispTurmas.resources
+Z:\Sistema_Prova 2018 v5.0\Sistema_Prova\bin\Debug\Sistema_Prova.exe.config
+Z:\Sistema_Prova 2018 v5.0\Sistema_Prova\obj\Debug\Sistema_Prova.exe
+Z:\Sistema_Prova 2018 v5.0\Sistema_Prova\obj\Debug\Sistema_Prova.pdb
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\Sistema_Prova.exe.config
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.exe
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.pdb
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\Sistema_Prova.exe
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\Sistema_Prova.pdb
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\BDC.dll
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\CircularProgressBar.dll
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\Vintasoft.Imaging.Annotation.dll
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\Vintasoft.Imaging.dll
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\WinFormAnimation.dll
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\BDC.pdb
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\CircularProgressBar.xml
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\Vintasoft.Imaging.xml
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\Vintasoft.Imaging.Annotation.xml
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\WinFormAnimation.xml
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Form1.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmAlterarAdm.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmCadastrarAdm.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmConsultarAdm.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmAlterarAlu.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmCadastrarAlu.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmConsultarAlu.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmConsultarNotas.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmAlterarMat.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmCadastrarMat.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmConsultarMat.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.Materia.frmNotasAluno.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmAlterarProf.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmCadastrarProf.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmConsultarProf.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmAlterarTurma.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmCadastrarTurma.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmConsultarTurma.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Properties.Resources.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Alunos.Prova.frmConsultarProva.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Alunos.Prova.frmMostrarNota.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Alunos.Prova.frmProva.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmAlterarProva.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmCadastrarProva.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmConsultarProva.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmDisponibiliza.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmDispTurmas.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Questao.frmAlterarQuestao.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Questao.frmCadastrarQuestao.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Questao.frmConsultarQuestao.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmLogin.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaAdm.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaAlu.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaProf.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmTrocarSenha.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.csproj.GenerateResource.Cache
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.csprojResolveAssemblyReference.cache
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\Sistema_Prova.exe.config
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\Sistema_Prova.exe
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\Sistema_Prova.pdb
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\BDC.dll
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\CircularProgressBar.dll
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\Vintasoft.Imaging.Annotation.dll
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\Vintasoft.Imaging.dll
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\WinFormAnimation.dll
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\BDC.pdb
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\CircularProgressBar.xml
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\Vintasoft.Imaging.xml
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\Vintasoft.Imaging.Annotation.xml
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\WinFormAnimation.xml
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.csprojResolveAssemblyReference.cache
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Form1.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.frmTeste.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmAlterarAdm.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmCadastrarAdm.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmConsultarAdm.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmAlterarAlu.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmCadastrarAlu.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmConsultarAlu.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmConsultarNotas.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmAlterarMat.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmCadastrarMat.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmConsultarMat.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.Materia.frmNotasAluno.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmAlterarProf.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmCadastrarProf.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmConsultarProf.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmMateriasProfessor.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmAlterarTurma.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmCadastrarTurma.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmConsultarTurma.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Properties.Resources.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Alunos.Prova.frmConsultarProva.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Alunos.Prova.frmMostrarNota.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Alunos.Prova.frmProva.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmAlterarProva.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmCadastrarProva.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmConsultarProva.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmDisponibiliza.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmDispTurmas.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Questao.frmAlterarQuestao.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Questao.frmCadastrarQuestao.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Questao.frmConsultarQuestao.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmLogin.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaAdm.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaAlu.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaProf.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmTrocarSenha.resources
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.csproj.GenerateResource.Cache
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.exe
+Z:\2018\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.pdb
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\Sistema_Prova.exe
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\Sistema_Prova.exe.config
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\BDC.dll
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\CircularProgressBar.dll
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\Vintasoft.Imaging.Annotation.dll
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\Vintasoft.Imaging.dll
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\WinFormAnimation.dll
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\BDC.pdb
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\CircularProgressBar.xml
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\Vintasoft.Imaging.xml
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\Vintasoft.Imaging.Annotation.xml
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\WinFormAnimation.xml
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.csprojResolveAssemblyReference.cache
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Form1.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.frmTeste.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmAlterarAdm.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmCadastrarAdm.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmConsultarAdm.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmAlterarAlu.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmCadastrarAlu.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmConsultarAlu.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmConsultarNotas.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmAlterarMat.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmCadastrarMat.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmConsultarMat.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.Materia.frmNotasAluno.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmAlterarProf.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmCadastrarProf.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmConsultarProf.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmMateriasProfessor.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmAlterarTurma.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmCadastrarTurma.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmConsultarTurma.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Properties.Resources.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Alunos.Prova.frmConsultarProva.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Alunos.Prova.frmMostrarNota.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Alunos.Prova.frmProva.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmAlterarProva.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmCadastrarProva.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmConsultarProva.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmDisponibiliza.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmDispTurmas.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Questao.frmAlterarQuestao.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Questao.frmCadastrarQuestao.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Questao.frmConsultarQuestao.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmLogin.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaAdm.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaAlu.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaProf.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmTrocarSenha.resources
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.csproj.GenerateResource.Cache
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.exe
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.pdb
+D:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\bin\Debug\Sistema_Prova.pdb
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.frmTeste.resources
+Z:\Sistema_Prova 2018 v5.0 server\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmMateriasProfessor.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\bin\Debug\Sistema_Prova.exe.config
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.exe
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.pdb
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\bin\Debug\Sistema_Prova.exe
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\bin\Debug\Sistema_Prova.pdb
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\bin\Debug\BDC.dll
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\bin\Debug\CircularProgressBar.dll
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\bin\Debug\Vintasoft.Imaging.Annotation.dll
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\bin\Debug\Vintasoft.Imaging.dll
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\bin\Debug\WinFormAnimation.dll
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\bin\Debug\BDC.pdb
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\bin\Debug\CircularProgressBar.xml
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\bin\Debug\Vintasoft.Imaging.xml
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\bin\Debug\Vintasoft.Imaging.Annotation.xml
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\bin\Debug\WinFormAnimation.xml
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.csprojResolveAssemblyReference.cache
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Form1.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.frmTeste.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmAlterarAdm.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmCadastrarAdm.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmConsultarAdm.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmAlterarAlu.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmCadastrarAlu.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmConsultarAlu.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmConsultarNotas.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmAlterarMat.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmCadastrarMat.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmConsultarMat.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.Materia.frmNotasAluno.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmAlterarProf.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmCadastrarProf.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmConsultarProf.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmMateriasProfessor.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmAlterarTurma.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmCadastrarTurma.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmConsultarTurma.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Properties.Resources.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Alunos.Prova.frmConsultarProva.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Alunos.Prova.frmMostrarNota.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Alunos.Prova.frmProva.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmAlterarProva.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmCadastrarProva.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmConsultarProva.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmDisponibiliza.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Questao.frmAlterarQuestao.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Questao.frmCadastrarQuestao.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Questao.frmConsultarQuestao.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmLogin.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaAdm.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaAlu.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaProf.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmTrocarSenha.resources
+Z:\Sistema_Prova 2018 v5.0 atual\Sistema_Prova\obj\Debug\Sistema_Prova.csproj.GenerateResource.Cache
+F:\Sistema_Prova 05-07-18\Sistema_Prova\bin\Debug\Sistema_Prova.exe
+F:\Sistema_Prova 05-07-18\Sistema_Prova\bin\Debug\Sistema_Prova.exe.config
+F:\Sistema_Prova 05-07-18\Sistema_Prova\bin\Debug\Sistema_Prova.pdb
+F:\Sistema_Prova 05-07-18\Sistema_Prova\bin\Debug\BDC.dll
+F:\Sistema_Prova 05-07-18\Sistema_Prova\bin\Debug\CircularProgressBar.dll
+F:\Sistema_Prova 05-07-18\Sistema_Prova\bin\Debug\Vintasoft.Imaging.Annotation.dll
+F:\Sistema_Prova 05-07-18\Sistema_Prova\bin\Debug\Vintasoft.Imaging.dll
+F:\Sistema_Prova 05-07-18\Sistema_Prova\bin\Debug\WinFormAnimation.dll
+F:\Sistema_Prova 05-07-18\Sistema_Prova\bin\Debug\BDC.pdb
+F:\Sistema_Prova 05-07-18\Sistema_Prova\bin\Debug\CircularProgressBar.xml
+F:\Sistema_Prova 05-07-18\Sistema_Prova\bin\Debug\Vintasoft.Imaging.xml
+F:\Sistema_Prova 05-07-18\Sistema_Prova\bin\Debug\Vintasoft.Imaging.Annotation.xml
+F:\Sistema_Prova 05-07-18\Sistema_Prova\bin\Debug\WinFormAnimation.xml
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.csprojResolveAssemblyReference.cache
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Form1.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.frmTeste.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmAlterarAdm.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmCadastrarAdm.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmConsultarAdm.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmAlterarAlu.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmCadastrarAlu.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmConsultarAlu.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmConsultarNotas.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmAlterarMat.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmCadastrarMat.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmConsultarMat.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.Materia.frmNotasAluno.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmAlterarProf.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmCadastrarProf.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmConsultarProf.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmMateriasProfessor.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmAlterarTurma.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmCadastrarTurma.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmConsultarTurma.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Properties.Resources.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Alunos.Prova.frmConsultarProva.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Alunos.Prova.frmMostrarNota.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Alunos.Prova.frmProva.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmAlterarProva.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmCadastrarProva.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmConsultarProva.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmDisponibiliza.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Questao.frmCadastrarQuestao.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Questao.frmConsultarQuestao.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmLogin.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaAdm.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaAlu.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaProf.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmTrocarSenha.resources
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.csproj.GenerateResource.Cache
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.exe
+F:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.pdb
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.csprojAssemblyReference.cache
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Form1.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.frmTeste.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmAlterarAdm.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmCadastrarAdm.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Administrador.frmConsultarAdm.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmAlterarAlu.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmCadastrarAlu.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmConsultarAlu.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.frmConsultarNotas.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmAlterarMat.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmCadastrarMat.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Materia.frmConsultarMat.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Aluno.Materia.frmNotasAluno.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmAlterarProf.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmCadastrarProf.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmConsultarProf.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Professor.frmMateriasProfessor.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmAlterarTurma.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmCadastrarTurma.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Modelos.Turma.frmConsultarTurma.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Properties.Resources.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Alunos.Prova.frmConsultarProva.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Alunos.Prova.frmMostrarNota.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Alunos.Prova.frmProva.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmAlterarProva.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmCadastrarProva.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmConsultarProva.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Provas.frmDisponibiliza.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Questao.frmCadastrarQuestao.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Rotina.Professor.Questao.frmConsultarQuestao.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmLogin.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaAdm.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaAlu.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmSistemaProf.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.Sistema.frmTrocarSenha.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.UserControl.Form1.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.UserControl.UserControl1.resources
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.csproj.GenerateResource.cache
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.csproj.CoreCompileInputs.cache
+D:\Sistema_Prova 05-07-18\Sistema_Prova\bin\Debug\Sistema_Prova.exe.config
+D:\Sistema_Prova 05-07-18\Sistema_Prova\bin\Debug\Sistema_Prova.exe
+D:\Sistema_Prova 05-07-18\Sistema_Prova\bin\Debug\Sistema_Prova.pdb
+D:\Sistema_Prova 05-07-18\Sistema_Prova\bin\Debug\BDC.dll
+D:\Sistema_Prova 05-07-18\Sistema_Prova\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Sistema_Prova 05-07-18\Sistema_Prova\bin\Debug\CircularProgressBar.dll
+D:\Sistema_Prova 05-07-18\Sistema_Prova\bin\Debug\Vintasoft.Imaging.Annotation.dll
+D:\Sistema_Prova 05-07-18\Sistema_Prova\bin\Debug\Vintasoft.Imaging.dll
+D:\Sistema_Prova 05-07-18\Sistema_Prova\bin\Debug\WinFormAnimation.dll
+D:\Sistema_Prova 05-07-18\Sistema_Prova\bin\Debug\BDC.pdb
+D:\Sistema_Prova 05-07-18\Sistema_Prova\bin\Debug\CircularProgressBar.xml
+D:\Sistema_Prova 05-07-18\Sistema_Prova\bin\Debug\Vintasoft.Imaging.xml
+D:\Sistema_Prova 05-07-18\Sistema_Prova\bin\Debug\Vintasoft.Imaging.Annotation.xml
+D:\Sistema_Prova 05-07-18\Sistema_Prova\bin\Debug\WinFormAnimation.xml
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.csproj.CopyComplete
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.exe
+D:\Sistema_Prova 05-07-18\Sistema_Prova\obj\Debug\Sistema_Prova.pdb

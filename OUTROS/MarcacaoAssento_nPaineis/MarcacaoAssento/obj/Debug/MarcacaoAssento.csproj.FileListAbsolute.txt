@@ -1,0 +1,44 @@
+N:\_ITB\Belval_2017\LIP2\MarcacaoAssento\MarcacaoAssento\bin\Debug\MarcacaoAssento.exe.config
+N:\_ITB\Belval_2017\LIP2\MarcacaoAssento\MarcacaoAssento\bin\Debug\MarcacaoAssento.exe
+N:\_ITB\Belval_2017\LIP2\MarcacaoAssento\MarcacaoAssento\bin\Debug\MarcacaoAssento.pdb
+N:\_ITB\Belval_2017\LIP2\MarcacaoAssento\MarcacaoAssento\obj\Debug\MarcacaoAssento.Form1.resources
+N:\_ITB\Belval_2017\LIP2\MarcacaoAssento\MarcacaoAssento\obj\Debug\MarcacaoAssento.Properties.Resources.resources
+N:\_ITB\Belval_2017\LIP2\MarcacaoAssento\MarcacaoAssento\obj\Debug\MarcacaoAssento.csproj.GenerateResource.Cache
+N:\_ITB\Belval_2017\LIP2\MarcacaoAssento\MarcacaoAssento\obj\Debug\MarcacaoAssento.exe
+N:\_ITB\Belval_2017\LIP2\MarcacaoAssento\MarcacaoAssento\obj\Debug\MarcacaoAssento.pdb
+Z:\2017\LIP2\MarcacaoAssento\MarcacaoAssento\bin\Debug\MarcacaoAssento.exe.config
+Z:\2017\LIP2\MarcacaoAssento\MarcacaoAssento\obj\Debug\MarcacaoAssento.exe
+Z:\2017\LIP2\MarcacaoAssento\MarcacaoAssento\obj\Debug\MarcacaoAssento.pdb
+Z:\2017\LIP2\MarcacaoAssento\MarcacaoAssento\bin\Debug\MarcacaoAssento.exe
+Z:\2017\LIP2\MarcacaoAssento\MarcacaoAssento\bin\Debug\MarcacaoAssento.pdb
+Z:\2017\LIP2\MarcacaoAssento\MarcacaoAssento\obj\Debug\MarcacaoAssento.csprojResolveAssemblyReference.cache
+Z:\2017\LIP2\MarcacaoAssento\MarcacaoAssento\obj\Debug\MarcacaoAssento.Form1.resources
+Z:\2017\LIP2\MarcacaoAssento\MarcacaoAssento\obj\Debug\MarcacaoAssento.Properties.Resources.resources
+Z:\2017\LIP2\MarcacaoAssento\MarcacaoAssento\obj\Debug\MarcacaoAssento.csproj.GenerateResource.Cache
+A:\INF2CM\GEOVANNA_25487\2017\LP2\MarcacaoAssento\MarcacaoAssento\bin\Debug\MarcacaoAssento.exe.config
+A:\INF2CM\GEOVANNA_25487\2017\LP2\MarcacaoAssento\MarcacaoAssento\obj\Debug\MarcacaoAssento.exe
+A:\INF2CM\GEOVANNA_25487\2017\LP2\MarcacaoAssento\MarcacaoAssento\obj\Debug\MarcacaoAssento.pdb
+A:\INF2CM\GEOVANNA_25487\2017\LP2\MarcacaoAssento\MarcacaoAssento\bin\Debug\MarcacaoAssento.exe
+A:\INF2CM\GEOVANNA_25487\2017\LP2\MarcacaoAssento\MarcacaoAssento\bin\Debug\MarcacaoAssento.pdb
+A:\INF2CM\GEOVANNA_25487\2017\LP2\MarcacaoAssento\MarcacaoAssento\obj\Debug\MarcacaoAssento.csprojResolveAssemblyReference.cache
+A:\INF2CM\GEOVANNA_25487\2017\LP2\MarcacaoAssento\MarcacaoAssento\obj\Debug\MarcacaoAssento.Form1.resources
+A:\INF2CM\GEOVANNA_25487\2017\LP2\MarcacaoAssento\MarcacaoAssento\obj\Debug\MarcacaoAssento.Properties.Resources.resources
+A:\INF2CM\GEOVANNA_25487\2017\LP2\MarcacaoAssento\MarcacaoAssento\obj\Debug\MarcacaoAssento.csproj.GenerateResource.Cache
+G:\MarcacaoAssento_nPaineis\MarcacaoAssento\bin\Debug\MarcacaoAssento.exe.config
+G:\MarcacaoAssento_nPaineis\MarcacaoAssento\obj\Debug\MarcacaoAssento.exe
+G:\MarcacaoAssento_nPaineis\MarcacaoAssento\obj\Debug\MarcacaoAssento.pdb
+G:\MarcacaoAssento_nPaineis\MarcacaoAssento\bin\Debug\MarcacaoAssento.exe
+G:\MarcacaoAssento_nPaineis\MarcacaoAssento\bin\Debug\MarcacaoAssento.pdb
+G:\MarcacaoAssento_nPaineis\MarcacaoAssento\obj\Debug\MarcacaoAssento.csprojResolveAssemblyReference.cache
+G:\MarcacaoAssento_nPaineis\MarcacaoAssento\obj\Debug\MarcacaoAssento.Form1.resources
+G:\MarcacaoAssento_nPaineis\MarcacaoAssento\obj\Debug\MarcacaoAssento.Properties.Resources.resources
+G:\MarcacaoAssento_nPaineis\MarcacaoAssento\obj\Debug\MarcacaoAssento.csproj.GenerateResource.Cache
+Z:\Sistema_Prova\futuras ideias\MarcacaoAssento_nPaineis\MarcacaoAssento\bin\Debug\MarcacaoAssento.exe.config
+Z:\Sistema_Prova\futuras ideias\MarcacaoAssento_nPaineis\MarcacaoAssento\obj\Debug\MarcacaoAssento.exe
+Z:\Sistema_Prova\futuras ideias\MarcacaoAssento_nPaineis\MarcacaoAssento\obj\Debug\MarcacaoAssento.pdb
+Z:\Sistema_Prova\futuras ideias\MarcacaoAssento_nPaineis\MarcacaoAssento\bin\Debug\MarcacaoAssento.exe
+Z:\Sistema_Prova\futuras ideias\MarcacaoAssento_nPaineis\MarcacaoAssento\bin\Debug\MarcacaoAssento.pdb
+Z:\Sistema_Prova\futuras ideias\MarcacaoAssento_nPaineis\MarcacaoAssento\obj\Debug\MarcacaoAssento.csprojResolveAssemblyReference.cache
+Z:\Sistema_Prova\futuras ideias\MarcacaoAssento_nPaineis\MarcacaoAssento\obj\Debug\MarcacaoAssento.Form1.resources
+Z:\Sistema_Prova\futuras ideias\MarcacaoAssento_nPaineis\MarcacaoAssento\obj\Debug\MarcacaoAssento.Properties.Resources.resources
+Z:\Sistema_Prova\futuras ideias\MarcacaoAssento_nPaineis\MarcacaoAssento\obj\Debug\MarcacaoAssento.csproj.GenerateResource.Cache

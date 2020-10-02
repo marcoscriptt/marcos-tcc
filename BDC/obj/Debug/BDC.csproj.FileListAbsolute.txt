@@ -1,0 +1,139 @@
+K:\Sistema_Prova\BDC\obj\Debug\BDC.csprojResolveAssemblyReference.cache
+Z:\Sistema_Prova\BDC\bin\Debug\BDC.dll
+Z:\Sistema_Prova\BDC\bin\Debug\BDC.pdb
+Z:\Sistema_Prova\BDC\bin\Debug\Oracle.DataAccess (2).dll
+Z:\Sistema_Prova\BDC\obj\Debug\BDC.dll
+Z:\Sistema_Prova\BDC\obj\Debug\BDC.pdb
+C:\Users\Marcos\Desktop\UseEsteAqui\Sistema_Prova\BDC\bin\Debug\BDC.dll
+C:\Users\Marcos\Desktop\UseEsteAqui\Sistema_Prova\BDC\bin\Debug\BDC.pdb
+C:\Users\Marcos\Desktop\UseEsteAqui\Sistema_Prova\BDC\bin\Debug\Oracle.DataAccess (2).dll
+C:\Users\Marcos\Desktop\UseEsteAqui\Sistema_Prova\BDC\obj\Debug\BDC.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\UseEsteAqui\Sistema_Prova\BDC\obj\Debug\BDC.dll
+C:\Users\Marcos\Desktop\UseEsteAqui\Sistema_Prova\BDC\obj\Debug\BDC.pdb
+Z:\UseEsteAqui\Sistema_Prova 01-10\BDC\bin\Debug\BDC.dll
+Z:\UseEsteAqui\Sistema_Prova 01-10\BDC\bin\Debug\BDC.pdb
+Z:\UseEsteAqui\Sistema_Prova 01-10\BDC\bin\Debug\Oracle.DataAccess (2).dll
+Z:\UseEsteAqui\Sistema_Prova 01-10\BDC\obj\Debug\BDC.csprojResolveAssemblyReference.cache
+Z:\UseEsteAqui\Sistema_Prova 01-10\BDC\obj\Debug\BDC.dll
+Z:\UseEsteAqui\Sistema_Prova 01-10\BDC\obj\Debug\BDC.pdb
+K:\UseEsteAqui\Sistema_Prova 02-10\BDC\obj\Debug\BDC.csprojResolveAssemblyReference.cache
+K:\UseEsteAqui\Sistema_Prova 02-10\BDC\obj\Debug\BDC.dll
+K:\UseEsteAqui\Sistema_Prova 02-10\BDC\bin\Debug\BDC.dll
+K:\UseEsteAqui\Sistema_Prova 02-10\BDC\bin\Debug\BDC.pdb
+K:\UseEsteAqui\Sistema_Prova 02-10\BDC\bin\Debug\Oracle.DataAccess (2).dll
+K:\UseEsteAqui\Sistema_Prova 02-10\BDC\obj\Debug\BDC.pdb
+Z:\UseEsteAqui\Sistema_Prova 03-10\BDC\obj\Debug\BDC.csprojResolveAssemblyReference.cache
+Z:\UseEsteAqui\Sistema_Prova 03-10\BDC\obj\Debug\BDC.dll
+Z:\UseEsteAqui\Sistema_Prova 03-10\BDC\obj\Debug\BDC.pdb
+Z:\UseEsteAqui\Sistema_Prova 03-10\BDC\bin\Debug\BDC.dll
+Z:\UseEsteAqui\Sistema_Prova 03-10\BDC\bin\Debug\BDC.pdb
+Z:\UseEsteAqui\Sistema_Prova 03-10\BDC\bin\Debug\Oracle.DataAccess (2).dll
+Z:\UseEsteAqui\Sistema_Prova 05-10 - Cópia\BDC\obj\Debug\BDC.dll
+Z:\UseEsteAqui\Sistema_Prova 05-10 - Cópia\BDC\bin\Debug\BDC.dll
+Z:\UseEsteAqui\Sistema_Prova 05-10 - Cópia\BDC\bin\Debug\BDC.pdb
+Z:\UseEsteAqui\Sistema_Prova 05-10 - Cópia\BDC\bin\Debug\Oracle.DataAccess (2).dll
+Z:\UseEsteAqui\Sistema_Prova 05-10 - Cópia\BDC\obj\Debug\BDC.pdb
+Z:\UseEsteAqui\Sistema_Prova 06-10 - Cópia\BDC\bin\Debug\BDC.dll
+Z:\UseEsteAqui\Sistema_Prova 06-10 - Cópia\BDC\bin\Debug\BDC.pdb
+Z:\UseEsteAqui\Sistema_Prova 06-10 - Cópia\BDC\bin\Debug\Oracle.DataAccess (2).dll
+Z:\UseEsteAqui\Sistema_Prova 06-10 - Cópia\BDC\obj\Debug\BDC.dll
+Z:\UseEsteAqui\Sistema_Prova 06-10 - Cópia\BDC\obj\Debug\BDC.pdb
+Z:\UseEsteAqui\Sistema_Prova 06-10 - Cópia\BDC\obj\Debug\BDC.csprojResolveAssemblyReference.cache
+K:\UseEsteAqui\Sistema_Prova 06-10 - Cópia\BDC\bin\Debug\BDC.dll
+K:\UseEsteAqui\Sistema_Prova 06-10 - Cópia\BDC\bin\Debug\BDC.pdb
+K:\UseEsteAqui\Sistema_Prova 06-10 - Cópia\BDC\bin\Debug\Oracle.DataAccess (2).dll
+K:\UseEsteAqui\Sistema_Prova 06-10 - Cópia\BDC\obj\Debug\BDC.csprojResolveAssemblyReference.cache
+K:\UseEsteAqui\Sistema_Prova 06-10 - Cópia\BDC\obj\Debug\BDC.dll
+K:\UseEsteAqui\Sistema_Prova 06-10 - Cópia\BDC\obj\Debug\BDC.pdb
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\BDC\bin\Debug\BDC.dll
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\BDC\bin\Debug\BDC.pdb
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\BDC\bin\Debug\Oracle.DataAccess (2).dll
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\BDC\obj\Debug\BDC.dll
+G:\UseEsteAqui\Sistema_Prova 11-10 - Cópia\BDC\obj\Debug\BDC.pdb
+E:\UseEsteAqui\Sistema_Prova 11-10\BDC\bin\Debug\BDC.dll
+E:\UseEsteAqui\Sistema_Prova 11-10\BDC\bin\Debug\BDC.pdb
+E:\UseEsteAqui\Sistema_Prova 11-10\BDC\bin\Debug\Oracle.DataAccess (2).dll
+E:\UseEsteAqui\Sistema_Prova 11-10\BDC\obj\Debug\BDC.csprojResolveAssemblyReference.cache
+E:\UseEsteAqui\Sistema_Prova 11-10\BDC\obj\Debug\BDC.dll
+E:\UseEsteAqui\Sistema_Prova 11-10\BDC\obj\Debug\BDC.pdb
+Z:\UseEsteAqui\Sistema_Prova 11-10\BDC\bin\Debug\BDC.dll
+Z:\UseEsteAqui\Sistema_Prova 11-10\BDC\bin\Debug\BDC.pdb
+Z:\UseEsteAqui\Sistema_Prova 11-10\BDC\obj\Debug\BDC.dll
+Z:\UseEsteAqui\Sistema_Prova 11-10\BDC\obj\Debug\BDC.pdb
+Z:\UseEsteAqui\Sistema_Prova 11-10\BDC\bin\Debug\Oracle.DataAccess (2).dll
+Z:\UseEsteAqui\Sistema_Prova 11-10\BDC\obj\Debug\BDC.csprojResolveAssemblyReference.cache
+G:\UseEsteAqui\Sistema_Prova 11-10\BDC\bin\Debug\BDC.dll
+G:\UseEsteAqui\Sistema_Prova 11-10\BDC\bin\Debug\BDC.pdb
+G:\UseEsteAqui\Sistema_Prova 11-10\BDC\bin\Debug\Oracle.DataAccess (2).dll
+G:\UseEsteAqui\Sistema_Prova 11-10\BDC\obj\Debug\BDC.dll
+G:\UseEsteAqui\Sistema_Prova 11-10\BDC\obj\Debug\BDC.pdb
+K:\UseEsteAqui\Sistema_Prova 11-10\BDC\bin\Debug\BDC.dll
+K:\UseEsteAqui\Sistema_Prova 11-10\BDC\bin\Debug\BDC.pdb
+K:\UseEsteAqui\Sistema_Prova 11-10\BDC\bin\Debug\Oracle.DataAccess (2).dll
+K:\UseEsteAqui\Sistema_Prova 11-10\BDC\obj\Debug\BDC.dll
+K:\UseEsteAqui\Sistema_Prova 11-10\BDC\obj\Debug\BDC.pdb
+G:\UseEsteAqui\Sistema_Prova 11-10\BDC\obj\Debug\BDC.csprojResolveAssemblyReference.cache
+K:\UseEsteAqui\Sistema_Prova 11-10\BDC\obj\Debug\BDC.csprojResolveAssemblyReference.cache
+K:\UseEsteAqui\Sistema_Prova 10-11\BDC\bin\Debug\BDC.dll
+K:\UseEsteAqui\Sistema_Prova 10-11\BDC\bin\Debug\BDC.pdb
+K:\UseEsteAqui\Sistema_Prova 10-11\BDC\bin\Debug\Oracle.DataAccess (2).dll
+K:\UseEsteAqui\Sistema_Prova 10-11\BDC\obj\Debug\BDC.csprojResolveAssemblyReference.cache
+K:\UseEsteAqui\Sistema_Prova 10-11\BDC\obj\Debug\BDC.dll
+K:\UseEsteAqui\Sistema_Prova 10-11\BDC\obj\Debug\BDC.pdb
+G:\UseEsteAqui\Sistema_Prova 10-11\BDC\bin\Debug\BDC.dll
+G:\UseEsteAqui\Sistema_Prova 10-11\BDC\bin\Debug\BDC.pdb
+G:\UseEsteAqui\Sistema_Prova 10-11\BDC\bin\Debug\Oracle.DataAccess (2).dll
+G:\UseEsteAqui\Sistema_Prova 10-11\BDC\obj\Debug\BDC.csprojResolveAssemblyReference.cache
+G:\UseEsteAqui\Sistema_Prova 10-11\BDC\obj\Debug\BDC.dll
+G:\UseEsteAqui\Sistema_Prova 10-11\BDC\obj\Debug\BDC.pdb
+K:\UseEsteAqui\Sistema_Prova 22-11\BDC\bin\Debug\BDC.dll
+K:\UseEsteAqui\Sistema_Prova 22-11\BDC\bin\Debug\BDC.pdb
+K:\UseEsteAqui\Sistema_Prova 22-11\BDC\bin\Debug\Oracle.DataAccess (2).dll
+K:\UseEsteAqui\Sistema_Prova 22-11\BDC\obj\Debug\BDC.csprojResolveAssemblyReference.cache
+K:\UseEsteAqui\Sistema_Prova 22-11\BDC\obj\Debug\BDC.dll
+K:\UseEsteAqui\Sistema_Prova 22-11\BDC\obj\Debug\BDC.pdb
+F:\UseEsteAqui\Sistema_Prova 22-11\BDC\obj\Debug\BDC.csprojResolveAssemblyReference.cache
+F:\UseEsteAqui\Sistema_Prova 22-11\BDC\bin\Debug\BDC.dll
+F:\UseEsteAqui\Sistema_Prova 22-11\BDC\bin\Debug\BDC.pdb
+F:\UseEsteAqui\Sistema_Prova 22-11\BDC\obj\Debug\BDC.dll
+F:\UseEsteAqui\Sistema_Prova 22-11\BDC\obj\Debug\BDC.pdb
+F:\UseEsteAqui\Sistema_Prova 22-11\BDC\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\BDC\bin\Debug\BDC.dll
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\BDC\bin\Debug\BDC.pdb
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\BDC\bin\Debug\Oracle.DataAccess (2).dll
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\BDC\obj\Debug\BDC.csprojResolveAssemblyReference.cache
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\BDC\obj\Debug\BDC.dll
+C:\Users\Conta 2\Desktop\UseEsteAqui\Sistema_Prova 22-11\BDC\obj\Debug\BDC.pdb
+Z:\Sistema_Prova 2018 v5.0 server\BDC\obj\Debug\BDC.dll
+Z:\Sistema_Prova 2018 v5.0 server\BDC\obj\Debug\BDC.pdb
+Z:\Sistema_Prova 2018 v5.0 server\BDC\bin\Debug\BDC.dll
+Z:\Sistema_Prova 2018 v5.0 server\BDC\bin\Debug\BDC.pdb
+Z:\Sistema_Prova 2018 v5.0 server\BDC\bin\Debug\Microsoft.SqlServer.ManagedConnections.dll
+Z:\2018\Sistema_Prova 2018 v5.0 server\BDC\bin\Debug\BDC.dll
+Z:\2018\Sistema_Prova 2018 v5.0 server\BDC\bin\Debug\BDC.pdb
+Z:\2018\Sistema_Prova 2018 v5.0 server\BDC\obj\Debug\BDC.csprojResolveAssemblyReference.cache
+Z:\2018\Sistema_Prova 2018 v5.0 server\BDC\obj\Debug\BDC.dll
+Z:\2018\Sistema_Prova 2018 v5.0 server\BDC\obj\Debug\BDC.pdb
+D:\Sistema_Prova 2018 v5.0 server\BDC\bin\Debug\BDC.dll
+D:\Sistema_Prova 2018 v5.0 server\BDC\bin\Debug\BDC.pdb
+D:\Sistema_Prova 2018 v5.0 server\BDC\obj\Debug\BDC.dll
+D:\Sistema_Prova 2018 v5.0 server\BDC\obj\Debug\BDC.pdb
+Z:\Sistema_Prova 2018 v5.0 server\BDC\obj\Debug\BDC.csprojResolveAssemblyReference.cache
+Z:\Sistema_Prova 2018 v5.0 atual\BDC\bin\Debug\BDC.dll
+Z:\Sistema_Prova 2018 v5.0 atual\BDC\bin\Debug\BDC.pdb
+Z:\Sistema_Prova 2018 v5.0 atual\BDC\obj\Debug\BDC.csprojResolveAssemblyReference.cache
+Z:\Sistema_Prova 2018 v5.0 atual\BDC\obj\Debug\BDC.dll
+Z:\Sistema_Prova 2018 v5.0 atual\BDC\obj\Debug\BDC.pdb
+Z:\Sistema_Prova 2018 v5.0 atual\BDC\bin\Debug\Microsoft.SqlServer.ManagedConnections.dll
+F:\Sistema_Prova 05-07-18\BDC\bin\Debug\BDC.dll
+F:\Sistema_Prova 05-07-18\BDC\bin\Debug\BDC.pdb
+F:\Sistema_Prova 05-07-18\BDC\obj\Debug\BDC.csprojResolveAssemblyReference.cache
+F:\Sistema_Prova 05-07-18\BDC\obj\Debug\BDC.dll
+F:\Sistema_Prova 05-07-18\BDC\obj\Debug\BDC.pdb
+D:\Sistema_Prova 05-07-18\BDC\bin\Debug\BDC.dll
+D:\Sistema_Prova 05-07-18\BDC\bin\Debug\BDC.pdb
+D:\Sistema_Prova 05-07-18\BDC\obj\Debug\BDC.csprojAssemblyReference.cache
+D:\Sistema_Prova 05-07-18\BDC\obj\Debug\BDC.csproj.CoreCompileInputs.cache
+D:\Sistema_Prova 05-07-18\BDC\obj\Debug\BDC.csproj.CopyComplete
+D:\Sistema_Prova 05-07-18\BDC\obj\Debug\BDC.dll
+D:\Sistema_Prova 05-07-18\BDC\obj\Debug\BDC.pdb
